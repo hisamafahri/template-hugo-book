@@ -19,4 +19,4 @@ If you're curious to learn more about the structure, you can read the quick guid
 - Configure the site in the [`hugo.toml` file](https://github.com/hisamafahri/template-hugo-book/edit/main/hugo.toml)
     * I've configured this site to be as complete-as possible.
     * But, if you want more control, use [this](https://github.com/alex-shpak/hugo-book/blob/main/exampleSite/hugo.toml) as the complete example
-- Write and deploy!
+- Write and [deploy](https://gohugo.io/host-and-deploy/)!
